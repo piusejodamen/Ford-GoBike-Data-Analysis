@@ -41,7 +41,7 @@
 > The male and female genders have very similar riding duration pattern, except on Sundays where there is a drop on the riding time by males.
 
 
-## Key Insights for Presentation
+## Key Insights 
 
 > We see from charts that male customers spend more time riding than male subscribers. 
 > Saturdays and Sundays witnessed more ride duration, despite the significantly lesser number of riders on Saturdays and Sundays. Probably there are lesser demands for bikes, resulting in more time available for those needing bikes to come take them.
