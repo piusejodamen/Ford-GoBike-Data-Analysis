@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The Ford GoBike System data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+> The Ford GoBike System data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset used for this study (named '201902-fordgobike-tripdata') may be made available on request; its about 37MB.
 
 > There 183412 records and 16 features in the dataset. Participants in the ride sharing were either Subscribers or customers and were aged from 18 and above. No underage rode the bikes! The bikes were available for riding at various times - from morning to night!
 
